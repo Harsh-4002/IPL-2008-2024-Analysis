@@ -51,5 +51,12 @@ jupyter notebook
 <img width="3552" height="1761" alt="wins_by_team" src="https://github.com/user-attachments/assets/5620d60d-98fc-4ab6-aefb-54269aa75c07" />
 
 
+<img width="4150" height="1766" alt="wins_percentage" src="https://github.com/user-attachments/assets/ac498d2a-a6ab-4376-96c8-d20bec072ac8" />
 
+<img width="1724" height="1770" alt="toss_wins" src="https://github.com/user-attachments/assets/95187f27-0faf-4f63-abd1-3a1b92d47eb6" />
+
+<img width="3570" height="1767" alt="top_batsmen" src="https://github.com/user-attachments/assets/9abbcf82-ac97-41e6-9821-f511a92c8aae" />
+
+
+<img width="3570" height="1768" alt="top_bowlers" src="https://github.com/user-attachments/assets/059d7567-c8cd-49dc-9b16-33e8db698152" />
 
