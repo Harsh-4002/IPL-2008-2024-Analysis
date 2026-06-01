@@ -48,6 +48,8 @@ cd ipl-analysis
 pip install -r requirements.txt
 jupyter notebook
 ```
+<img width="3552" height="1761" alt="wins_by_team" src="https://github.com/user-attachments/assets/5620d60d-98fc-4ab6-aefb-54269aa75c07" />
 
-## 👤 Author
-Your Name
+
+
+
